@@ -227,7 +227,7 @@ def rusyntax_parse(filename = 'finalcorpus.txt'):
             continue
     return sentences
 
-print ('ububuibuib \n')
+
 sentences = rusyntax_parse()
 #for i in sentences:
 #    print (type(i))
